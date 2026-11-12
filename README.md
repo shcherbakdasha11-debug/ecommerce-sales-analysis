@@ -6,7 +6,7 @@ Analysis of 349,545 website sessions of an online furniture store over three mon
 ## 📈 Dashboard
 [Open the interactive Tableau dashboard](https://public.tableau.com/views/portfolio_17931156253050/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![E-commerce sales dashboard](images/dashboard.png)
+![E-commerce sales dashboard](images/dashboard.jpg)
 
 ## 📂 Data
 - **Source:** Google BigQuery, project `data-analytics-mate`, dataset `DA`. Six tables (`session`, `session_params`, `account_session`, `account`, `order`, `product`) joined with `LEFT JOIN` from the sessions table.
